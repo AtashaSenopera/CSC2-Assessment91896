@@ -1,3 +1,1 @@
-from tkinter import
-root = Tk()
-root.title('Party Hire')
+print(www.google.com)
